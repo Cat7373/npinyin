@@ -1,0 +1,11 @@
+**/*/bin
+**/*/obj
+.vs
+.idea
+Logs.txt
+**/*/logs
+node_modules/
+**/*/wwwroot/dist
+**/*/ClientApp/dist
+logs
+**/*/wwwroot/css/*.min.css
